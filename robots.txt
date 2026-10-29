@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hclab16k.github.io/health-affiliate-site/sitemap.xml
